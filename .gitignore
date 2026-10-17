@@ -9,3 +9,4 @@ coverage/
 images/archive/
 
 *.zip
+.cursor/skills/pstack/poteto-mode/scripts/node_modules/
