@@ -1,0 +1,2 @@
+source: https://github.com/cursor/plugins/tree/0317eb8b858c991c57721358daaee19dbe8c814d/pstack
+version: 0.15.25
